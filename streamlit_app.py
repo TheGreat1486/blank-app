@@ -23,7 +23,7 @@ KEYWORDS = {
     "sad": 0, "bad": 0, "angry": 0, "depressed": 0, "terrible": 0
 }
 
-st.title("🌱 My Emotional Garden")
+st.title("🌱 CutePlantPal")
 
 # 1. User Identification
 user_name = st.text_input("Enter your name to load your plant:").lower().strip()
