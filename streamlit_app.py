@@ -64,7 +64,7 @@ if user_name:
             else:
                 st.warning("Your plant didn't grow today. Take heart, tomorrow is a new day! ❤️")
         else:
-            st.info("No keywords detected, but thank you for sharing your thoughts.")
+            st.info("Thank you for sharing your thoughts.")
 
     # 3. Visualizing the Plant
     st.divider()
