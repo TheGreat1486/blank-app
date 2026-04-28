@@ -19,7 +19,7 @@ def save_data(data):
 # Positive: +10%, Neutral: +5%, Negative: 0%
 KEYWORDS = {
     "happy": 10, "great": 10, "excited": 10, "good": 10, "awesome": 10,
-    "tired": 5, "okay": 5, "normal": 5, "fine": 5,
+    "tired": 5, "okay": 5, "normal": 5, "fine": 4,
     "sad": 0, "bad": 0, "angry": 0, "depressed": 0, "terrible": 0
 }
 
